@@ -41,7 +41,6 @@ export const SignInScreen = ({ navigation }) => {
 
   return (
 
-
     <View style={styles.container}>
       <LinearGradient
         // Background Linear Gradient
